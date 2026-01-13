@@ -20,12 +20,3 @@ Practice basic comparison logic using `if`, `else if`, and `else` statements.
 * **Operators:** Which comparison operators (`>`, `<`, `===`) are most appropriate?
 * **Flow:** What is the most logical order for these conditions to be checked?
 * **Edge Cases:** What happens if the input is not a number? (Optional)
-
----
-
-### 🚀 Getting Started
-To test your solution, you can run your script in the browser console or using Node.js:
-```javascript
-let number = 5; 
-
-// Your code logic here...
