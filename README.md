@@ -9,7 +9,7 @@ fundamentals such as DOM manipulation, events, and conditional logic.
 - Build confidence before moving to frameworks
 
 ## Challenges
-1. Click Counter
+1. Check Number
 2. Show / Hide Password
 3. Grade Evaluator
 4. Dynamic To-Do List
