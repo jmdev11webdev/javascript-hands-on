@@ -1,0 +1,20 @@
+:root {
+    justify-content: center;
+    text-align: center;
+    background: yellow;
+    height: 100vh;
+}
+
+input {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px;
+}
