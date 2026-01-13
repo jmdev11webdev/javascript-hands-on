@@ -6,7 +6,7 @@
 
 Requirements
 
-An <input type="password">
+An ```<input type="password">
 
 A button that toggles between:
 
